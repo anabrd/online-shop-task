@@ -6,4 +6,4 @@
 - Border radius
 - Pseudo classes
 - Positioning
-- <a> tag styling
+- `<a>` tag styling
